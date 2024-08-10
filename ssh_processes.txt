@@ -1,0 +1,5 @@
+root      3338  0.0  0.2 112756  4312 ?        Ss   09:06   0:00 /usr/sbin/sshd -D
+root      3896  0.0  0.3 158760  5728 ?        Ss   09:09   0:02 sshd: root@pts/0
+root      4048  0.0  0.3 158748  6028 ?        Ss   10:09   0:00 sshd: root@notty
+root      4052  0.0  0.1  72092  2944 ?        Ss   10:09   0:00 /usr/libexec/openssh/sftp-server
+root      7504  0.0  0.0 113176  1196 pts/0    S+   11:44   0:00 /bin/bash ./ssh_processes.sh
